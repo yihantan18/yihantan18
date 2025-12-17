@@ -19,6 +19,8 @@ python projets
 ![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-000000.svg?style=plastic&logo=assemblyscript&logoColor=white)
 ![Verilog](https://img.shields.io/badge/verilog-grey?style=plastic)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 
 ---
 
