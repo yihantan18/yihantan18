@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Tan Yi Han, a first-year Computer Science student at the University of Manchester 🇬🇧.  
+I'm Tan Yi Han, a second-year Computer Science student at the University of Manchester 🇬🇧.  
 I enjoy solving real-world problems with code, and I'm passionate about building creative and efficient software solutions.  
 Currently looking for **summer internship opportunities** to apply my skills in Python, Java, and full-stack web development.
 
